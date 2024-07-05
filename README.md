@@ -30,11 +30,11 @@
 <div align="left">
 <p>
 <a href="mailto:ceribelibreno@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
-<a href="www.linkedin.com/in/breno-fernandes-ceribeli"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/breno-fernandes-ceribeli"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </p>
 </div>
 
 <details align="left">
-  <summary>Credits</summary> 
+  <summary>Créditos</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
 </details>
