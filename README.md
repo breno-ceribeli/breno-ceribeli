@@ -37,5 +37,6 @@
 <details align="left">
   <summary>Créditos</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  <br>
   - <a href="https://skillicons.dev"> Skill icons </a>
 </details>
