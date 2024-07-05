@@ -21,7 +21,7 @@
 
 ## &nbsp;Minhas Tecnologias
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,git,github&theme=dark"/>
 
 ## &nbsp;Sobre Mim
 
@@ -37,4 +37,5 @@
 <details align="left">
   <summary>Créditos</summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - <a href="https://skillicons.dev"> Skill icons </a>
 </details>
