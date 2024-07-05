@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-  <img height="350em" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"/>
+  <!--<img height="350em" src="https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif"/>-->
+  <img height="350em" src="https://i.pinimg.com/originals/65/c4/bb/65c4bb1da1b6f751fe07a01084daa26e.gif"/>
 </div>
 
 <div align="center">
