@@ -7,6 +7,10 @@
   <img height="350em" src="assets/banner-solo.gif"/>
 </div>
 
+<h3 align="center">
+  Programador • Estudante de Engenharia de Software
+</h3>
+
 <div align="center">
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=breno-ceribeli&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
@@ -25,8 +29,12 @@
 
 <div align="left">
 <p>
-<a href="mailto:ceribelibreno@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
+<a href="mailto:ceribelibreno@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
 <a href="www.linkedin.com/in/breno-fernandes-ceribeli"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </p>
 </div>
 
+<details align="left">
+  <summary>Credits</summary> 
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+</details>
