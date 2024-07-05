@@ -4,7 +4,7 @@
 
 <div align="center">
   <!--<img height="350em" src="https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif"/>-->
-  <img height="350em" src="https://i.pinimg.com/originals/65/c4/bb/65c4bb1da1b6f751fe07a01084daa26e.gif"/>
+  <img height="350em" src="assets/banner-solo.gif"/>
 </div>
 
 <div align="center">
@@ -18,4 +18,15 @@
 ## &nbsp;Minhas Tecnologias
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,git,github&theme=dark" />
+
+## &nbsp;Sobre Mim
+
+## &nbsp;Contato
+
+<div align="left">
+<p>
+<a href="mailto:ceribelibreno@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
+<a href="www.linkedin.com/in/breno-fernandes-ceribeli"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+</p>
+</div>
 
