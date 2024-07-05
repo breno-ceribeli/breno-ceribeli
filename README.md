@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desvende os pixels e códigos que moldam minha jornada digital.
+  Desvende os pixels que moldam minha jornada digital.
 </h1>
 
 <div align="center">
