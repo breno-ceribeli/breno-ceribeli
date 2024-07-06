@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-  Programador • Estudante de Engenharia de Software
+  Desenvolvedor • Estudante de Engenharia de Software
 </h3>
 
 <div align="center">
