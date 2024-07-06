@@ -4,7 +4,7 @@
 
 <div align="center">
   <!--<img height="350em" src="https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif"/>-->
-  <img width="80%" src="assets/banner-solo.gif"/>
+  <img width="65%" src="assets/banner-solo.gif"/>
 </div>
 
 <h3 align="center">
