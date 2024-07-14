@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desvende os pixels que moldam minha jornada digital.
+  Seja bem vindo a minha jornada.
 </h1>
 
 <div align="center">
