@@ -19,7 +19,7 @@
 </div>
 
 
-## &nbsp;Minhas Tecnologias
+## &nbsp;Minhas Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,git,github&theme=dark"/>
 
