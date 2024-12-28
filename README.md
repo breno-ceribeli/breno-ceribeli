@@ -21,7 +21,7 @@
 
 ## &nbsp;Minha Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,py,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,html,css,js,vscode,git,github&theme=dark"/>
 
 ## &nbsp;Sobre Mim
 
