@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode"/>
 </div>
 
----
-
 ## Ainda aprendendo
 
 <div align="center">
