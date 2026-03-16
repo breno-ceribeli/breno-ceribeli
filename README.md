@@ -1,51 +1,63 @@
-<h1 align="center">
-  Seja bem vindo a minha jornada.
-</h1>
+<h1 align="center">Breno Ceribeli</h1>
+
+<h4![1773619113185](image/README/1773619113185.png) align="center">
+  <samp>Desenvolvedor Python &nbsp;·&nbsp; Automação &nbsp;·&nbsp; Dados</samp>
+</h4!>
 
 <div align="center">
-  <!--<img height="350em" src="https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif"/>-->
-  <img width="65%" src="assets/banner-solo.gif"/>
+  <a href="https://www.linkedin.com/in/breno-fernandes-ceribeli">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ceribelibreno@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
-<h3 align="center">
-  Programador • Estudante de Engenharia de Software
-</h3>
+---
+
+## Sobre mim
+
+- Estudante de Engenharia de Software na Uni-FACEF
+- Trabalho com Python, desenvolvimento de soluções, automação de processos e dados
+- Background em fiscal e contábil, o que me levou a criar ferramentas que resolvem problemas reais
+- Interesse crescente em mercado financeiro e análise de dados
+
+---
+
+## Minhas ferramentas e tecnologias
 
 <div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=breno-ceribeli&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-ceribeli&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" height="40" title="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode"/>
 </div>
 
+---
 
-## &nbsp;Minha Stack
+## Ainda aprendendo
 
-<img src="https://skillicons.dev/icons?i=py,html,css,js,vscode,git,github&theme=dark"/>
-
-## &nbsp;Sobre Mim
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> &nbsp;Oi! Meu nome é Breno, sou estudante de Engenharia de Software e amante de diversas áreas da tecnologia. <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> &nbsp;Meu foco atual é o aprendizado de Python e SQL. <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> &nbsp;Minha maior paixão reside no mundo da IA, onde pretendo me especializar e atuar. <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" /> &nbsp;Valorizo a construção de relacionamentos sólidos e a colaboração para alcançarmos ainda mais além.
-
-
-## &nbsp;Contato
-
-<div align="left">
-<p>
-<a href="mailto:ceribelibreno@gmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail"></a>
-<a href="https://www.linkedin.com/in/breno-fernandes-ceribeli"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/>
 </div>
 
-<details align="left">
-  <summary>Créditos</summary>
-  <br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-  - <a href="https://skillicons.dev"> Skill icons </a>
-  <br>
-  - Animated emojis provided by <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Tarikul Islam Anik</a>
-</details>
+---
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/breno-ceribeli/breno-ceribeli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark"/>
+  <img src="https://raw.githubusercontent.com/breno-ceribeli/breno-ceribeli/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light"/>
+</div>
