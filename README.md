@@ -1,8 +1,8 @@
 <h1 align="center">Breno Ceribeli</h1>
 
-<h3 align="center">
+<h2 align="center">
   <samp>Desenvolvedor Python &nbsp;·&nbsp; Automação &nbsp;·&nbsp; Dados</samp>
-</h3>
+</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/breno-fernandes-ceribeli">
