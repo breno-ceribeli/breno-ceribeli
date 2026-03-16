@@ -1,8 +1,8 @@
 <h1 align="center">Breno Ceribeli</h1>
 
-<h4![1773619113185](image/README/1773619113185.png) align="center">
+<h4 align="center">
   <samp>Desenvolvedor Python &nbsp;·&nbsp; Automação &nbsp;·&nbsp; Dados</samp>
-</h4!>
+</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/breno-fernandes-ceribeli">
