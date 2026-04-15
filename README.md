@@ -27,32 +27,30 @@
 
 ## Minhas ferramentas e tecnologias
 
-<div align="center">
-  <table><tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" title="Python"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" title="Playwright"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" height="38" title="Pandas"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" title="PostgreSQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" title="JavaScript"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" title="HTML5"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" title="CSS3"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" title="Git"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" height="38" title="GitHub"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="38" height="38" title="VSCode"/></td>
-  </tr></table>
-</div>
+<p align="center">
+  <img src="./icons/python-original.svg" width="38" height="38" title="Python" alt="Python"/>&nbsp;
+  <img src="./icons/playwright-original.svg" width="38" height="38" title="Playwright" alt="Playwright"/>&nbsp;
+  <img src="./icons/postgresql-original.svg" width="38" height="38" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
+  <img src="./icons/html5-original.svg" width="38" height="38" title="HTML" alt="HTML"/>&nbsp;
+  <img src="./icons/css3-original.svg" width="38" height="38" title="CSS" alt="CSS"/>&nbsp;
+  <img src="./icons/javascript-original.svg" width="38" height="38" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="./icons/typescript-original.svg" width="38" height="38" title="TypeScript" alt="TypeScript"/>&nbsp;
+  <img src="./icons/express-original.svg" width="38" height="38" title="Express" alt="Express"/>&nbsp;
+  <img src="./icons/react-original.svg" width="38" height="38" title="React" alt="React"/>&nbsp;
+  <img src="./icons/git-original.svg" width="38" height="38" title="Git" alt="Git"/>&nbsp;
+  <img src="./icons/github-original.svg" width="38" height="38" title="GitHub" alt="GitHub"/>&nbsp;
+  <img src="./icons/vscode-original.svg" width="38" height="38" title="VSCode" alt="VSCode"/>
+</p>
 
 ## Ainda aprendendo
 
-<div align="center">
-  <table><tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="38" height="38" title="FastAPI"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" title="React"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" title="TypeScript"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38" height="38" title="Flutter"/></td>
-  </tr></table>
-</div>
-
+<p align="center">
+  <img src="./icons/pandas-original.svg" width="38" height="38" title="Pandas" alt="Pandas"/>&nbsp;
+  <img src="./icons/fastapi-original.svg" width="38" height="38" title="FastAPI" alt="FastAPI"/>&nbsp;
+  <img src="./icons/flutter-original.svg" width="38" height="38" title="Flutter" alt="Flutter"/>&nbsp;
+  <img src="./icons/dart-original.svg" width="38" height="38" title="Dart" alt="Dart"/>&nbsp;
+  <img src="./icons/firebase-original.svg" width="38" height="38" title="Firebase" alt="Firebase"/>
+</p>
 ---
 
 <div align="center">
