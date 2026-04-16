@@ -18,15 +18,15 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<p align="center">Estudante de Engenharia de Software na Uni-FACEF, com background em fiscal e contábil, o que me levou a criar ferramentas que resolvem problemas reais.</p>
+<h4 align="center">Estudante de Engenharia de Software na Uni-FACEF, com background em fiscal e contábil, o que me levou a criar ferramentas que resolvem problemas reais.</h4>
 
-<p align="center">Trabalho com Python, desenvolvimento de soluções, automação de processos e dados, com interesse crescente em mercado financeiro e análise de investimentos.</p>
+<h4 align="center">Trabalho com Python, desenvolvimento de soluções, automação de processos e dados, com interesse crescente em mercado financeiro e análise de investimentos.</h4>
 
 ---
 
 <h2 align="center">Minhas ferramentas e tecnologias</h2>
 
-<h4 align="center">Stack de Desenvolvimento</h4>
+<h3 align="center">Stack de Desenvolvimento</h3>
 <p align="center">
   <img src="./icons/python-original.svg" width="38" height="38" title="Python" alt="Python"/>&nbsp;
   <img src="./icons/playwright-original.svg" width="38" height="38" title="Playwright" alt="Playwright"/>&nbsp;
@@ -38,7 +38,7 @@
   <img src="./icons/express-original.svg" width="38" height="38" title="Express" alt="Express"/>
 </p>
 
-<h4 align="center">Ferramentas & Plataformas</h4>
+<h3 align="center">Ferramentas & Plataformas</h3>
 <p align="center">
   <img src="./icons/n8n-color.svg" width="38" height="38" title="N8N" alt="N8N"/>&nbsp;
   <img src="./icons/postgresql-original.svg" width="38" height="38" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
